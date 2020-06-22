@@ -1,0 +1,44 @@
+{
+  "name": "@sanv/sharec-tsconfig-config",
+  "version": "1.0.19",
+  "description": "Store TypeScript (tsconfig.json) config in one place and share between projects without any pain",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "postinstall": "sharec"
+  },
+  "files": [
+    "configs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanderV1992/sharec-tsconfig-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SanderV1992/sharec-tsconfig-config/issues"
+  },
+  "homepage": "https://github.com/SanderV1992/sharec-tsconfig-config#readme",
+  "license": "ISC",
+  "keywords": [
+    "sharec",
+    "sharec configs",
+    "config",
+    "configuration",
+    "sharec typescript",
+    "typescript config",
+    "typescript configuration",
+    "sharec typescript config",
+    "sharec typescript configuration",
+    "tsconfig.json",
+    "sharec tsconfig.json",
+    "tsconfig.json config",
+    "tsconfig.json configuration",
+    "sharec tsconfig.json config",
+    "sharec tsconfig.json configuration"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "sharec": "2.2.1"
+  }
+}
