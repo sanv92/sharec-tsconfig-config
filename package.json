@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SanderV1992/sharec-tsconfig-config.git"
+    "url": "git+https://github.com/sanderv1992/sharec-tsconfig-config.git"
   },
   "bugs": {
-    "url": "https://github.com/SanderV1992/sharec-tsconfig-config/issues"
+    "url": "https://github.com/sanderv1992/sharec-tsconfig-config/issues"
   },
-  "homepage": "https://github.com/SanderV1992/sharec-tsconfig-config#readme",
+  "homepage": "https://github.com/sanderv1992/sharec-tsconfig-config#readme",
   "license": "ISC",
   "keywords": [
     "sharec",
